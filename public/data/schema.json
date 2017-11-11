@@ -24,7 +24,10 @@
 					"minItems": 1
 				}
 			},
-			"required": ["text"]
+			"anyOf": [
+        { "required": ["text"] },
+        { "required": ["bullets"] }
+      ]
 		},
 		"timeline": {
 			"type": "object",
