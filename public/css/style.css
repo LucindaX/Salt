@@ -1,0 +1,29 @@
+.resume{
+	width: 70%;
+}
+.timeline{
+	float: right;
+}
+.timeline hr{
+	display: inline-block;
+	width: 20;
+	vertical-align: middle;
+	margin: 12;
+}
+.contact-info{
+}
+.contact-info .left-col{
+	display: inline-block;
+}
+.contact-info .right-col{
+	float: right;
+}
+.contact-info .right-col div{
+	margin-bottom: 4%;
+}
+.sub-section-title{
+	display: inline;
+}
+.sub-section{
+	margin-bottom: 3%;
+}
