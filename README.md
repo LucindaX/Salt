@@ -1,2 +1,2 @@
-# Firas
-Tictactoe game deployed on [heroku](sheltered-depths-66060.herokuapp.com)
+# Salt
+JSON resume parser deployed on [heroku](https://stark-atoll-52695.herokuapp.com)
